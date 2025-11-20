@@ -1,4 +1,4 @@
-// functions/product/code.js
+// functions/product/code.js 
 
 export async function onRequestPost(context) {
   try {
