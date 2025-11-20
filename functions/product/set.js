@@ -1,6 +1,6 @@
 // functions/set.js
 
-export async function onRequestGet(context) {
+unction onRequestGet(context) {
   const { request, env } = context;
 
   const url = new URL(request.url);
